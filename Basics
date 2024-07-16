@@ -1,0 +1,4 @@
+ - `cp <source> <destination>`: Copy files or directories.
+   - `mv <source> <destination>`: Move or rename files or directories.
+   - `rm <file>`: Remove files.
+   - `mkdir <directory>`: Create a new directory.
